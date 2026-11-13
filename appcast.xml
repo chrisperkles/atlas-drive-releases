@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.1.8</title>
+      <pubDate>Fri, 13 Nov 2026 20:23:11 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Changes made in the Atlas portal now show up in Finder within about a second.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.8/AtlasDrive-0.1.8.dmg" sparkle:edSignature="7B988FLVDJNordbMXEqnbuVeQGD+fxW2bRFpD0nCmsyFLNq40FGntcnVqCF7uy644E5hX3yUGG4vl0uxj7VoAQ==" length="3973070" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.7</title>
       <pubDate>Fri, 13 Nov 2026 19:49:46 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
