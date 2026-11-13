@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.1.4</title>
+      <pubDate>Fri, 13 Nov 2026 16:53:42 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Right-click in Finder: <b>Copy Share Link</b> on a shoot, photo or video, and <b>Open in Atlas</b> on any Library item.</li><li>Updates now install by themselves when no file is moving.</li><li>Fix: Atlas Drive recovers when macOS rebuilds its file index.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.4/AtlasDrive-0.1.4.dmg" sparkle:edSignature="Lg62hoyy2zZtCQCvw+orioec5VjnOhi5/1F49u00v91tD9RYzuZs0p/fwn2ZoBTaotE/9NA7jVAp1Xsmdx97BA==" length="1643019" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.3</title>
       <pubDate>Fri, 13 Nov 2026 15:09:06 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
