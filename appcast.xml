@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.1.7</title>
+      <pubDate>Fri, 13 Nov 2026 19:49:46 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Faster: files open in about half the time, and calls to Atlas share one connection.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.7/AtlasDrive-0.1.7.dmg" sparkle:edSignature="MMRr0RW5a6M60OBoIqbfKColyl/++1dSsz1LT2UPieD8f0UzW4s1o8teULZWp51MKzddCryQbqc/VuGiw5xsBA==" length="3941163" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.6</title>
       <pubDate>Fri, 13 Nov 2026 19:41:12 GMT</pubDate>
       <sparkle:version>17</sparkle:version>
