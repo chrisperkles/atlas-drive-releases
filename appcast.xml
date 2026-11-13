@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.1.1</title>
+      <pubDate>Fri, 13 Nov 2026 14:40:18 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Opened straight from the DMG, Atlas Drive now asks to be moved to the Applications folder instead of failing with an unclear error.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.1/AtlasDrive-0.1.1.dmg" sparkle:edSignature="DH8jyk7Q8JB2fkssHXHlVvaUsFnA4aTJzSMBlN6/rVfZhqM/8y2ZqPznG1AJH5FMy86YyEmY9f9wbaYJSETyCQ==" length="1579696" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.0</title>
       <pubDate>Fri, 13 Nov 2026 14:37:03 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
