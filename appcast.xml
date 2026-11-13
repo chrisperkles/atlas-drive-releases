@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.1.5</title>
+      <pubDate>Fri, 13 Nov 2026 18:50:25 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Right-click in Finder: <b>Keep Offline</b> downloads a shoot, folder or file and keeps it on this Mac; <b>Online Only</b> frees the space again.</li><li>New app icon, and the Atlas Drive mark in the menu bar.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.5/AtlasDrive-0.1.5.dmg" sparkle:edSignature="FWvgEzX+UctUVFDF25rX9FEdlrtZ2jKXkbJmtZkUWtXD6NfudOhpIvQKs/Fjb+QJAVCzdQSfpEsLMIV2RZLyBg==" length="3878878" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.4</title>
       <pubDate>Fri, 13 Nov 2026 16:53:42 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
