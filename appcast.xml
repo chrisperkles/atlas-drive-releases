@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Atlas Drive</title>
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Fri, 13 Nov 2026 14:37:03 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: Atlas Drive in the Finder sidebar with Library and Team files.</li><li>Files open on demand; drag files in; new folder, rename, move, delete.</li><li>Menu: sync status, current transfers, pause, start at login, updates.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.0/AtlasDrive-0.1.0.dmg" sparkle:edSignature="mKqSkw7NvtExdlF5CTQ5/JnRiHMUdnRd1DyJEZfwaa4j4Y4wA31KeLwMf+mtELH1WFWEHDT5cnHJBtde9tRpBA==" length="1579714" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
