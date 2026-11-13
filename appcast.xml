@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.1.2</title>
+      <pubDate>Fri, 13 Nov 2026 14:45:39 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Atlas Drive sends at most 4 requests to the server at once, so busy folders no longer queue up on the server.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.2/AtlasDrive-0.1.2.dmg" sparkle:edSignature="ozOBK/IoBj3Neh8x2FvhNWCni7GOCUT2Vj4aM9qC1vJwJF9lAKXoOPNZLviNJo/H8FJXtWgD8+VUvVGHsdqEAA==" length="1594099" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.1</title>
       <pubDate>Fri, 13 Nov 2026 14:40:18 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
