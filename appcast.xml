@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.1.6</title>
+      <pubDate>Fri, 13 Nov 2026 19:41:12 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The Atlas Drive mark is back in the menu bar, and Finder’s sidebar shows the Atlas Drive logo.</li><li>Faster downloads and file opening; changes from the portal show up within about 10 seconds.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.1.6/AtlasDrive-0.1.6.dmg" sparkle:edSignature="NyLNeo1r1fK6235vhRsQ5uoc+esGFAfgtAKKD0IuxdI4IXCicIgPL/LR79nez6+aMLh8djQwGIoLTKZ+obz6DA==" length="3934745" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.5</title>
       <pubDate>Fri, 13 Nov 2026 18:50:25 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
