@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.2.2</title>
+      <pubDate>Sat, 14 Nov 2026 18:45:22 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New clients from Finder (admins): make a new folder at the top of the Library and type the client&#x27;s name. Nothing is created while it is still called &#x201E;Neuer Ordner&#x201C;.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.2.2/AtlasDrive-0.2.2.dmg" sparkle:edSignature="Gq+bX9+Sd5YcqOaJBDFUy3P6S5Oe7DdMskF+XuwZ0EtgTe5yd4nqznBuFKrNFsXvVHZR7gU3hHQOlwS59o/MBA==" length="4130528" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.1</title>
       <pubDate>Sat, 14 Nov 2026 18:31:32 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
