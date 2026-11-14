@@ -3,6 +3,15 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.2.1</title>
+      <pubDate>Sat, 14 Nov 2026 18:31:32 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New menu bar panel: sync status, your folders and what happened lately.</li><li>Version History for Team files: right-click a file › Version History… to save or restore an earlier version.</li><li>Notifications when uploads finish, a share link is copied or a version is restored.</li><li>My files: a private folder only you can see.</li><li>The Library is sorted by client, then year (Content &#x27;26), then project.</li></ul>]]></description>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.2.1/AtlasDrive-0.2.1.dmg" sparkle:edSignature="BeKjXS/ERxAz4f91W7AKOdRUBLWXEAr+uOI+aVSioSH5xIvBpHU+a488RvJeB73frLaLXx5CHNDfarXf8PzQCg==" length="4125538" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.8</title>
       <pubDate>Fri, 13 Nov 2026 20:23:11 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
