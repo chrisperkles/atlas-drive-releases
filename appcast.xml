@@ -3,6 +3,14 @@
   <channel>
     <title>Atlas Drive</title>
     <item>
+      <title>0.2.3</title>
+      <pubDate>Mon, 16 Nov 2026 10:15:42 GMT</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/chrisperkles/atlas-drive-releases/releases/download/v0.2.3/AtlasDrive-0.2.3.dmg" sparkle:edSignature="Z565blq87EKB5PADC0LC7aDkXyrp/5NzzC5gZzYBbbSPLYbN00pi5jEieCfLWUk32siI8uS/qWcr5H21mC+YAQ==" length="4161198" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.2</title>
       <pubDate>Sat, 14 Nov 2026 18:45:22 GMT</pubDate>
       <sparkle:version>32</sparkle:version>
